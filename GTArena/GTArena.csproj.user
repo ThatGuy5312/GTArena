@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Game\Commands.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Game\Networking.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Main\AssetLoader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Main\Command.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Main\VoiceManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources\Scroll.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources\Weapon.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Utilities\AudioRollOff.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Utilities\GameUtils.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
